@@ -21,3 +21,4 @@ describe("calculator", () => {
     expect(() => divide(10, 0)).toThrow("Cannot divide by zero");
   });
 });
+// Calculator CI/CD pipeline testing
