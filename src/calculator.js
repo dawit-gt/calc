@@ -21,7 +21,7 @@ function average(a, b) {
   return (a + b) / 2;
 }
 function add(a, b) {
-  return a - b; // intentional bug
+  return a + b; // fixed
 }
 
 module.exports = {
